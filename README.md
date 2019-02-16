@@ -1,7 +1,10 @@
+[donation]: https://donorbox.org/rayou?amount=10
+
 # theperfectgiftcard-api
 [![GoDoc](https://godoc.org/github.com/rayou/theperfectgiftcard-api?status.svg)](https://godoc.org/github.com/rayou/theperfectgiftcard-api)
 [![Go Report Card](https://goreportcard.com/badge/github.com/rayou/theperfectgiftcard-api)](https://goreportcard.com/report/github.com/rayou/theperfectgiftcard-api)
 [![Coverage Status](https://coveralls.io/repos/github/rayou/theperfectgiftcard-api/badge.svg)](https://coveralls.io/github/rayou/theperfectgiftcard-api)
+[![](https://img.shields.io/badge/Donate-Donorbox-green.svg)][donation]
 
 The Perfect Gift Card API - Fetch your card summary and transaction history via an API. 
 
@@ -97,6 +100,10 @@ PRs are welcome.
 ## Author
 
 Ray Ou - yuhung.ou@live.com
+
+# Donation
+
+[![](https://d1iczxrky3cnb2.cloudfront.net/button-small-green.png)][donation]
 
 ## License
 
